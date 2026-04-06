@@ -7,10 +7,6 @@ I am a professional with a background in Instrumentation and Control Engineering
 - Researching and working on AI-Driven Surgical Robotics & EU MDR Compliance.
 - Exploring dissertation topics related to medical devices, regulations, and technology within the EU context.
 
-## 🌱 Currently Learning & Exploring
-- *[Add a new technology, programming language, or framework you are currently picking up]*
-- *[Add any new medical device standards or software tools you are learning]*
-
 ## 💼 Experience & Background
 - **Instrumentation Engineer** at Revelation Automation.
 - I focused on the calibration and servicing of biomedical equipment.
