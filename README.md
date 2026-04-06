@@ -39,4 +39,4 @@ I am a professional with a background in Instrumentation and Control Engineering
 - I enjoy **Frontier Tech Scouting**, exploring emerging technologies from AI breakthroughs to bioengineering.
 - I am a massive fan of the *Harry Potter* universe (Always ⚯͛).
 
-[cite_start]📫 **How to reach me:** You can email me at [bristomathew03@gmail.com](mailto:bristomathew03@gmail.com) [cite: 7]
+📫 **How to reach me:** You can email me at [bristomathew03@gmail.com](mailto:bristomathew03@gmail.com)
