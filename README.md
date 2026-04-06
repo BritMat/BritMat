@@ -4,7 +4,7 @@ I am a professional with a background in Instrumentation and Control Engineering
 
 ## 🔭 Currently Working On
 - Pursuing an **MSc in Medical Device Technology & Business** at Griffith College, Dublin.
-- Researching and working on Medtronic's AI-Driven Surgical Robotics & EU MDR Compliance.
+- Researching and working on AI-Driven Surgical Robotics & EU MDR Compliance.
 - Exploring dissertation topics related to medical devices, regulations, and technology within the EU context.
 
 ## 🌱 Currently Learning & Exploring
