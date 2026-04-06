@@ -27,12 +27,16 @@ I am a professional with a background in Instrumentation and Control Engineering
 - **Industrial Automation**: Bottle Sorting, Filling and Water Quality Monitoring System With SCADA.
 - **IoT/Embedded**: Arduino Based Smart Fan Operated Via Android Application.
 
+## 🌱 Currently Learning & Exploring
+- Deepening my knowledge in **EU MDR Compliance** and quality regulatory systems.
+- Exploring advanced applications of **AI in Surgical Robotics**.
+
 ## 👯 Looking to Collaborate On
-- *[E.g., Open-source healthcare projects, medical robotics, or decentralized tech initiatives]*
+- Open-source healthcare projects, medical robotics, and decentralized tech initiatives.
 
 ## ⚡ Fun Facts & Hobbies
 - I am actively involved in **Decentralized Ecosystem Experimentation**, participating in testnet deployments and node operations.
 - I enjoy **Frontier Tech Scouting**, exploring emerging technologies from AI breakthroughs to bioengineering.
 - I am a massive fan of the *Harry Potter* universe (Always ⚯͛).
 
-📫 **How to reach me:** [Add your preferred contact link, email, or LinkedIn profile here]
+[cite_start]📫 **How to reach me:** You can email me at [bristomathew03@gmail.com](mailto:bristomathew03@gmail.com) [cite: 7]
